@@ -16,4 +16,4 @@ https://chat.hivdb.org/
 
 ## Subtype tool
 
-[http://subtype.hivdb.org/](http://subtype.hivdb.org/?__theme=light)
+http://subtype.hivdb.org/?__theme=light
