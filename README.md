@@ -4,8 +4,16 @@
 ## Using accession to find reference
 
 - [reflink.hivdb.org](http://reflink.hivdb.org/)
-- New reflink version: http://52.88.209.105:8000/
 - code: https://github.com/hivdb/HIVDB_GenBank_Reference_Linker
+- Tech demo: [reflink-demo.hivdb.org](http://reflink-demo.hivdb.org/)
 
 ## HIV BlastHits database:
 - https://blasthit.hivdb.org/hiv/
+
+## ChatBot
+
+https://chat.hivdb.org/
+
+## Subtype tool
+
+http://subtype.hivdb.org/
