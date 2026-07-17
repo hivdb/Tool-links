@@ -14,6 +14,9 @@
 
 https://chat.hivdb.org/
 
+## ChatBot dashboard
+http://52.38.238.92:8111/
+
 ## Subtype tool
 
 http://subtype.hivdb.org/?__theme=light
