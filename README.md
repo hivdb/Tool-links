@@ -15,7 +15,7 @@
 https://chat.hivdb.org/
 
 ## ChatBot dashboard
-http://52.38.238.92:8111/
+https://chat.hivdb.org/dashboard/
 
 ## Subtype tool
 
